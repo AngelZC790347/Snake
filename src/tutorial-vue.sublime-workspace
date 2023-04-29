@@ -1,0 +1,1709 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"import"
+			],
+			[
+				"m",
+				"mount"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"fr",
+				"from"
+			],
+			[
+				"c",
+				"coordenadas_2"
+			],
+			[
+				"D",
+				"Distancia_Manhattan"
+			],
+			[
+				"co",
+				"coordenadas_2"
+			],
+			[
+				"ma",
+				"max"
+			],
+			[
+				"si",
+				"sin"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"r",
+				"recorrido"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"nu",
+				"numpy"
+			],
+			[
+				"ver",
+				"vertexShader"
+			],
+			[
+				"f",
+				"fragmentShader2"
+			],
+			[
+				"Cha",
+				"char"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"fieldNod",
+				"fieldNodeFinal"
+			],
+			[
+				"roa",
+				"roads"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"mo",
+				"modal.css"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"t",
+				"td"
+			],
+			[
+				"Ma",
+				"Math"
+			],
+			[
+				"er",
+				"every"
+			],
+			[
+				"mi",
+				"minVal"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"in",
+				"initNode"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"cno",
+				"console"
+			],
+			[
+				"io",
+				"iostream>"
+			],
+			[
+				"_c",
+				"__cplusplus"
+			],
+			[
+				"id",
+				"ifdef"
+			],
+			[
+				"pr",
+				"processInput"
+			],
+			[
+				"us",
+				"using namespace"
+			],
+			[
+				"std",
+				"stdio.h>"
+			],
+			[
+				"cs",
+				"cstdio"
+			],
+			[
+				"funcione",
+				"funciones.hpp\""
+			],
+			[
+				"i",
+				"inc\t#include \"…\""
+			],
+			[
+				"tr",
+				"triangle"
+			],
+			[
+				"s",
+				"success"
+			],
+			[
+				"gl",
+				"glWindowPos2i"
+			],
+			[
+				"C",
+				"cpp"
+			],
+			[
+				"ios",
+				"iostream>"
+			],
+			[
+				"inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"WIN",
+				"window"
+			],
+			[
+				"GLFW_OP",
+				"GLFW_OPENGL_CORE_PROFILE"
+			],
+			[
+				"GLFW_CONTEXT_VERSION_M",
+				"GLFW_CONTEXT_VERSION_MINOR"
+			],
+			[
+				"GLFW_CONTEX",
+				"GLFW_CONTEXT_VERSION_MAJOR"
+			],
+			[
+				"GLFW_CONTE",
+				"GLFW_CONTEXT_VERSION_MINOR"
+			],
+			[
+				"glfw",
+				"glfwInit"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"G",
+				"GLUT/"
+			],
+			[
+				"O",
+				"OpenGL/"
+			],
+			[
+				"Op",
+				"OpenGL/"
+			],
+			[
+				"Gl",
+				"GLUT/"
+			],
+			[
+				"serv",
+				"server"
+			],
+			[
+				"so",
+				"socket"
+			],
+			[
+				"CFSocketCo",
+				"CFSocketCopyAddress(:)"
+			],
+			[
+				"CFSoc",
+				"CFSocketNativeHandle"
+			],
+			[
+				"Da",
+				"Data"
+			],
+			[
+				"Int",
+				"Int32"
+			],
+			[
+				"re",
+				"readStream"
+			],
+			[
+				"soc",
+				"socket"
+			],
+			[
+				"g",
+				"getStreamsTo(:port:inputStream:outputStream:)"
+			],
+			[
+				"CFReadStreamCre",
+				"CFReadStreamCreateWithFile(::)"
+			],
+			[
+				"GL",
+				"GLFW_DLL"
+			],
+			[
+				"Glu",
+				"GLuint"
+			],
+			[
+				"op",
+				"OpenGL/"
+			],
+			[
+				"CFReadStreamCreateW",
+				"CFReadStreamCreateWithFile(::)"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"prin",
+				"print(:)"
+			],
+			[
+				"cat",
+				"catch"
+			],
+			[
+				"Unsaf",
+				"UnsafeMutablePointer"
+			],
+			[
+				"sockl",
+				"socklen_t"
+			],
+			[
+				"Unsa",
+				"UnsafeRawPointer"
+			],
+			[
+				"In",
+				"Int32"
+			],
+			[
+				"Str",
+				"String"
+			],
+			[
+				"IN",
+				"Int32"
+			],
+			[
+				"sock",
+				"sockaddr"
+			],
+			[
+				"Core",
+				"CoreFoundation"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"v",
+				"v2"
+			],
+			[
+				"o",
+				"output"
+			],
+			[
+				"swa",
+				"swap"
+			],
+			[
+				"cou",
+				"cout"
+			],
+			[
+				"ou",
+				"output"
+			],
+			[
+				"str",
+				"c_str"
+			],
+			[
+				"com",
+				"combines"
+			],
+			[
+				"fa",
+				"factortial"
+			],
+			[
+				"strin",
+				"string"
+			],
+			[
+				"B",
+				"break"
+			],
+			[
+				"sw",
+				"swap"
+			],
+			[
+				"sta",
+				"stack"
+			],
+			[
+				"no",
+				"nodo.h"
+			],
+			[
+				"stdl",
+				"stdlib.h"
+			],
+			[
+				"No",
+				"Nodo"
+			],
+			[
+				"__MAC_2",
+				"__MAC_12_1"
+			],
+			[
+				"__MAC_11",
+				"__MAC_11_6"
+			],
+			[
+				"__Ma",
+				"__MAC_10_14"
+			],
+			[
+				"XMLp",
+				"XMLParserDelegate"
+			],
+			[
+				"Deco",
+				"Decoder"
+			],
+			[
+				"Dec",
+				"Decoder"
+			],
+			[
+				"XML",
+				"XMLParser"
+			],
+			[
+				"u",
+				"utf8"
+			],
+			[
+				"pri",
+				"print(:)"
+			],
+			[
+				"catc",
+				"catch"
+			],
+			[
+				"se",
+				"setRecipient(recipient:)"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"Mess",
+				"MessageRepresented"
+			],
+			[
+				"Mes",
+				"MessageBuilder"
+			],
+			[
+				"MEss",
+				"MessageBuilder"
+			],
+			[
+				"ut",
+				"utf8"
+			],
+			[
+				"xml",
+				"XMLParser"
+			],
+			[
+				"XMl",
+				"XMLParser"
+			],
+			[
+				"Messa",
+				"MessageRepresented"
+			],
+			[
+				"Me",
+				"Message"
+			],
+			[
+				"error",
+				"EncodingError"
+			],
+			[
+				"Err",
+				"Error"
+			],
+			[
+				"Json",
+				"JSONEncoder"
+			],
+			[
+				"Js",
+				"JSONSerialization"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"St",
+				"String"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "v"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					2,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAdg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "main.ts",
+			"redo_stack":
+			[
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "im"
+					},
+					"AgAAAEIAAAAAAAAAQgAAAAAAAAABAAAAbUEAAAAAAAAAQQAAAAAAAAABAAAAaQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					57,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEEAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "}"
+					},
+					"AQAAAE0AAAAAAAAATQAAAAAAAAABAAAAfQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABOAAAAAAAAAE4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "{"
+					},
+					"AQAAAEkAAAAAAAAASQAAAAAAAAABAAAAew",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABKAAAAAAAAAEoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					39,
+					1,
+					"insert_dimensions",
+					null,
+					"AQAAAFYAAAAAAAAAVgAAAAAAAAAHAAAAQXBwLnZ1ZQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABdAAAAAAAAAF0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "./"
+					},
+					"AgAAAFUAAAAAAAAAVQAAAAAAAAABAAAAL1QAAAAAAAAAVAAAAAAAAAABAAAALg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABWAAAAAAAAAFYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					1,
+					"left_delete",
+					null,
+					"BwAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"insert_dimensions",
+					null,
+					"AQAAAFQAAAAAAAAAVAAAAAAAAAAHAAAAQXBwLnZ1ZQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABbAAAAAAAAAFsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AwAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAAEgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"left_delete",
+					null,
+					"AQAAAE4AAAAAAAAATwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABOAAAAAAAAAE4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"insert_dimensions",
+					null,
+					"AwAAAEEAAAAAAAAAQQAAAAAAAAAZAAAAaW1wb3J0IHsgQXBwIH0gZnJvbSAndnVlJ0EAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABNAAAAAAAAAE0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "AP"
+					},
+					"AgAAAEkAAAAAAAAASQAAAAAAAAABAAAAUEgAAAAAAAAASAAAAAAAAAABAAAAQQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABKAAAAAAAAAEoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAEgAAAAAAAAASQAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAAEgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEkAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAAAAAAAAAEkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "A"
+					},
+					"AQAAAEkAAAAAAAAASQAAAAAAAAABAAAAQQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABKAAAAAAAAAEoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAEgAAAAAAAAASAAAAAAAAAACAAAAe30",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAAAAAAAAAEkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEcAAAAAAAAARwAAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAAEgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"insert_dimensions",
+					null,
+					"AwAAAEEAAAAAAAAAQQAAAAAAAAAGAAAAaW1wb3J0QQAAAAAAAABCAAAAAAAAAAAAAABCAAAAAAAAAEMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAAAAAAAAAEcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "im"
+					},
+					"AgAAAEIAAAAAAAAAQgAAAAAAAAABAAAAbUEAAAAAAAAAQQAAAAAAAAABAAAAaQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"BwAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEcAAAAAAAAARwAAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAAEgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "rt"
+					},
+					"AgAAAEYAAAAAAAAARgAAAAAAAAABAAAAdEUAAAAAAAAARQAAAAAAAAABAAAAcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABHAAAAAAAAAEcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "impo"
+					},
+					"BAAAAEQAAAAAAAAARAAAAAAAAAABAAAAb0MAAAAAAAAAQwAAAAAAAAABAAAAcEIAAAAAAAAAQgAAAAAAAAABAAAAbUEAAAAAAAAAQQAAAAAAAAABAAAAaQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAAAAAAAAAEUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AgAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "im"
+					},
+					"AgAAAEIAAAAAAAAAQgAAAAAAAAABAAAAbUEAAAAAAAAAQQAAAAAAAAABAAAAaQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEEAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 406,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "App.vue",
+			"settings":
+			{
+				"buffer_size": 318,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAABkAAAAAAAAAGQAAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "crea"
+					},
+					"BAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					4,
+					"left_delete",
+					null,
+					"BAAAABwAAAAAAAAAHAAAAAAAAAABAAAAYRsAAAAAAAAAGwAAAAAAAAABAAAAZRoAAAAAAAAAGgAAAAAAAAABAAAAchkAAAAAAAAAGQAAAAAAAAABAAAAYw",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "use"
+					},
+					"AwAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					3,
+					"left_delete",
+					null,
+					"AwAAABsAAAAAAAAAGwAAAAAAAAABAAAAZRoAAAAAAAAAGgAAAAAAAAABAAAAcxkAAAAAAAAAGQAAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "use"
+					},
+					"AwAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					3,
+					"left_delete",
+					null,
+					"AwAAABsAAAAAAAAAGwAAAAAAAAABAAAAZRoAAAAAAAAAGgAAAAAAAAABAAAAcxkAAAAAAAAAGQAAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "im"
+					},
+					"AgAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAABkAAAAAAAAAGQAAAAAAAAACAAAAaW0ZAAAAAAAAAB8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAB8AAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"left_delete",
+					null,
+					"AQAAABkAAAAAAAAAGQAAAAAAAAAHAAAAaW1wb3J0IA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"pa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"lsp-",
+				"Preferences: LSP-SourceKit Settings"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pr",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"json",
+				"LSP Development: Parse VSCode Package JSON From Clipboard"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"C+",
+				"Build With: C++ Single File"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 72.0,
+		"history":
+		[
+			"gcc",
+			"ps",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue"
+	],
+	"file_history":
+	[
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/components/HelloWorld.vue",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/node_modules/@vue/runtime-dom/dist/runtime-dom.cjs.js",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/index.html",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/App.vue",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-typescript/init.ts",
+		"/Users/angelzuniga/Documents/programacion/python-apps/prog-avanzada/main.py",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/buffer.cpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/buffer.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/main.cpp",
+		"/Library/WebServer/Documents/Grafos/index.html",
+		"/Library/WebServer/Documents/Grafos/styles/road.css",
+		"/Library/WebServer/Documents/Grafos/styles/nodo.css",
+		"/Library/WebServer/Documents/Grafos/styles/modal.css",
+		"/Library/WebServer/Documents/Grafos/styles/global.css",
+		"/Library/WebServer/Documents/Grafos/JS/algoritmos.js",
+		"/Library/WebServer/Documents/Grafos/test/test.js",
+		"/Library/WebServer/Documents/Grafos/JS/road.js",
+		"/Library/WebServer/Documents/Grafos/JS/nodo.js",
+		"/Library/WebServer/Documents/Grafos/JS/index.js",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/funciones.cpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/funciones.hpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/makefile",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers/gl3.h",
+		"/usr/local/Cellar/glfw/3.3.8/include/GLFW/glfw3.h",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/Makefile/Make.sublime-build",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/run.sh",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers/glext.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFSocket.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/stinger-http/Sources/stinger-http/main.swift",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFSocket.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Headers/gl.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/opengl-tutorial/main.c",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_socklen_t.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/i386/_types.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/stinger-http/Tests/stinger-httpTests/stinger_httpTests.swift",
+		"/Users/angelzuniga/Documents/programacion/clang-files/stinger-http/Package.swift",
+		"/Users/angelzuniga/Documents/programacion/clang-files/problema1.cpp",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/C++/C Single File.sublime-build",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/iosfwd",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/__config",
+		"/Users/angelzuniga/Documents/programacion/clang-files/problema1",
+		"/Users/angelzuniga/Documents/programacion/clang-files/stack.h",
+		"/Users/angelzuniga/Documents/programacion/clang-files/test.c",
+		"/Users/angelzuniga/Documents/programacion/clang-files/nodo.h",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/User/tsc.sublime-build",
+		"/Users/angelzuniga/Documents/programacion/node-apps/tutorial-typescript/tsconfig.json",
+		"/Users/angelzuniga/Documents/programacion/clang-files/design-patterns/Tests/design-patternsTests/design_patternsTests.swift",
+		"/Users/angelzuniga/Documents/programacion/clang-files/design-patterns/Package.swift",
+		"/Users/angelzuniga/Documents/programacion/clang-files/design-patterns/main.swift",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSXMLParser.h",
+		"/Library/WebServer/Documents/Grafos/JS/promise.js",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/User/clsnippet",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/angelzuniga/Documents/programacion/python-apps/tty.py",
+		"/Users/angelzuniga/Documents/programacion/clang-files/stinger-http/Sources/stinger-http/PromptTimer.swift",
+		"/Users/angelzuniga/Documents/programacion/clang-files/stinger-http/Sources/stinger-http/threads.swift",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPort.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRunLoop.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/netinet6/in6.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCoder.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFMachPort.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/sys/_types/_mach_port_t.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/sys/_types.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFMachPort.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFFileDescriptor.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFFileDescriptor.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Versions/A/Headers/CFBase.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSKeyValueCoding.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_attr_t.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/sys/_pthread/_pthread_types.h",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_t.h",
+		"/Volumes/INSTALACION/syslinux/archiso_pxe-linux.cfg",
+		"/Volumes/INSTALACION/syslinux/archiso_head.cfg",
+		"/Volumes/INSTALACION/syslinux/archiso_pxe.cfg",
+		"/Volumes/INSTALACION/syslinux/syslinux.cfg",
+		"/Volumes/INSTALACION/syslinux/archiso_sys-linux.cfg",
+		"/Volumes/INSTALACION/arch/boot/memtest.efi",
+		"/Volumes/INSTALACION/EFI/BOOT/grub.cfg",
+		"/Users/angelzuniga/Documents/programacion/clang-files/stinger-http/server.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/server.py",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/User/swift.sublime-build",
+		"/Users/angelzuniga/.config/alacritty/alacritty.yml",
+		"/Users/angelzuniga/Documents/programacion/clang-files/stinger-http/Sources/stinger-http/stinger_http.swift",
+		"/Users/angelzuniga/.config/bat/config",
+		"/Users/angelzuniga/.zshrc",
+		"/Users/angelzuniga/.c",
+		"/Library/WebServer/Documents/hacked.php",
+		"/Library/WebServer/Documents/hack.php",
+		"/Library/WebServer/Documents/index.php",
+		"/usr/local/etc/tor/torrc",
+		"/Users/angelzuniga/Library/Application Support/TorBrowser-Data/Tor/torrc",
+		"/Applications/Tor Browser.app/Contents/Resources/TorBrowser/Docs/snowflake/README.md",
+		"/Applications/Tor Browser.app/Contents/Resources/browser/override.ini",
+		"/Users/angelzuniga/Desktop/programacion/main.py",
+		"/Users/angelzuniga/Documents/programacion/main.py",
+		"/Users/angelzuniga/My-Project/06-07-08.js",
+		"/Users/angelzuniga/My-Project/package.json",
+		"/Users/angelzuniga/My-Project/01.js",
+		"/Users/angelzuniga/My-Project/02.js",
+		"/Users/angelzuniga/My-Project/03.js",
+		"/Users/angelzuniga/My-Project/04.js",
+		"/Users/angelzuniga/My-Project/05.js",
+		"/Users/angelzuniga/My-Project/09.js",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/User/node.sublime-build",
+		"/Users/angelzuniga/Documents/programacion/front-develop/my-first-app/res.json",
+		"/Users/angelzuniga/Documents/programacion/front-develop/my-first-app/res.xml",
+		"/Users/angelzuniga/Documents/programacion/front-develop/my-first-app/scraping.py",
+		"/Users/angelzuniga/Documents/programacion/front-develop/my-first-app/main.js",
+		"/Users/angelzuniga/Library/Caches/Sublime Text 3/Package Storage/LSP-typescript/16.15.0/typescript-language-server/node_modules/typescript/lib/lib.dom.d.ts",
+		"/Users/angelzuniga/Documents/programacion/front-develop/my-first-app/index.html",
+		"/Applications/Alacritty.app/Contents/Info.plist",
+		"/Users/angelzuniga/test.sh",
+		"/Users/angelzuniga/script.sh",
+		"/Users/angelzuniga/Documents/programacion/clang-files/test.cpp",
+		"/Users/angelzuniga/Documents/programacion/clang-files/Touring_Repo/main.cpp",
+		"/Users/angelzuniga/Documents/programacion/python-apps/euler.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-app/fit_app.sublime-project",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-app/src/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-app/src/public/api.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-app/__init__.py",
+		"/Users/angelzuniga/Documents/programacion/python-apps/fit-app/main.py",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/thread",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/chrono",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/sys/_types/_timespec.h",
+		"/Users/angelzuniga/Library/Application Support/Sublime Text 3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/Users/angelzuniga/Documents/programacion/clang-files/clang.sublime-project"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"lsp_uri": "buffer://sublime/928",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".>:",
+									"selector": "source.c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>:",
+									"selector": "source.c - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.cuda-c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".\"'/@<",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-typescript"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 3,
+							"lsp_uri": "file:///Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/main.ts",
+							"show_definitions": false,
+							"syntax": "Packages/JavaScript/TypeScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "App.vue",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+							"col_42B883AA":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										295,
+										304
+									]
+								],
+								"scope": "col_42B883AA"
+							},
+							"col_42B883AA_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_42B883AA_circle.png",
+								"regions":
+								[
+									[
+										265,
+										265
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_646CFFAA":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										233,
+										242
+									]
+								],
+								"scope": "col_646CFFAA"
+							},
+							"col_646CFFAA_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_646CFFAA_circle.png",
+								"regions":
+								[
+									[
+										203,
+										203
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".>:",
+									"selector": "source.c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>:",
+									"selector": "source.c - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.cuda-c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": "/-:>+^*()#.[]$@{}<\"='` ",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-volar"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/angelzuniga/Documents/programacion/node-apps/tutorial-vue/src/App.vue",
+							"show_definitions": false,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.cc":
+	{
+		"height": 197.0
+	},
+	"output.diagnostics":
+	{
+		"height": 168.0
+	},
+	"output.exec":
+	{
+		"height": 281.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 180.0
+	},
+	"pinned_build_system": "Packages/User/tsc.sublime-build",
+	"project": "tutorial-vue.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"te",
+				"test/test.js"
+			],
+			[
+				"no",
+				"JS/nodo.js"
+			],
+			[
+				"bu",
+				"buffer.cpp"
+			],
+			[
+				"buf",
+				"buffer.h"
+			],
+			[
+				"ma",
+				"makefile"
+			],
+			[
+				"f",
+				"funciones.cpp"
+			],
+			[
+				"m",
+				"makefile"
+			],
+			[
+				"ro",
+				"styles/road.css"
+			],
+			[
+				"glo",
+				"styles/global.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"algo",
+				"JS/algoritmos.js"
+			],
+			[
+				"a",
+				"JS/algoritmos.js"
+			],
+			[
+				"r",
+				"JS/road.js"
+			],
+			[
+				"re",
+				"res.json"
+			],
+			[
+				"res",
+				"res.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
